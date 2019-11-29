@@ -1,0 +1,4 @@
+if (9 - quadrado(3)) then
+	5
+ifnot
+	(3-3)

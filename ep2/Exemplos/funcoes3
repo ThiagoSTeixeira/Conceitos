@@ -1,0 +1,5 @@
+let fat function(n)
+	if n then n <- n * fat (n - 1)
+	ifnot n <- 1
+	do fat (5)
+

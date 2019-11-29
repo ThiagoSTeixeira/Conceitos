@@ -1,0 +1,5 @@
+let dobro function(x)
+	x <- 2 * x
+	do let triplo function(x)
+		x <- 3 * x
+		do triplo(dobro(2))

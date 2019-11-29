@@ -1,0 +1,1 @@
+let x = 2 do ((x <- x + 1 and x <- x + 3) and x <- -x)
